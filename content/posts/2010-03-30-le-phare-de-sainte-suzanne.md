@@ -5,9 +5,9 @@ type: post
 date: 2010-03-30T04:39:06+00:00
 excerpt: Le phare de Sainte-Suzanne, monument historique de la Réunion.
 url: /le-phare-de-sainte-suzanne/
-featured_image: /wp-content/uploads/2010/03/phare-saint-suzanne-reunion.jpg
+featured_image: /img/2010/03/phare-saint-suzanne-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/03/w490-150x150.jpg
+  - http://www.974attitude.fr/img/2010/03/w490-150x150.jpg
 views:
   - 196
 categories:
@@ -22,7 +22,7 @@ tags:
 Le phare de Sainte-Suzanne est un des anciens vestiges de notre île. Construit en 1845, il est le seul phare ayant résisté jusqu’à maintenant. Celui de la Rivière des Galets a été détruit pour cause d’érosion marine.
 
 <div id="attachment_1408" style="width: 160px" class="wp-caption alignright">
-  <a href="https://i1.wp.com/974attitude.fr/wp-content/uploads/2010/03/phare.jpg"><img aria-describedby="caption-attachment-1408" src="https://i1.wp.com/974attitude.fr/wp-content/uploads/2010/03/w490-150x150.jpg?resize=150%2C150" alt="" title="phare" width="150" height="150" class="size-thumbnail wp-image-1408" data-recalc-dims="1" /></a>
+  <a href="https://i1.wp.com/974attitude.fr/img/2010/03/phare.jpg"><img aria-describedby="caption-attachment-1408" src="https://i1.wp.com/974attitude.fr/img/2010/03/w490-150x150.jpg?resize=150%2C150" alt="" title="phare" width="150" height="150" class="size-thumbnail wp-image-1408" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-1408" class="wp-caption-text">
     Phare de Bel-Aire

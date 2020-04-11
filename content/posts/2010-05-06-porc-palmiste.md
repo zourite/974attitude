@@ -5,7 +5,7 @@ type: post
 date: 2010-05-06T04:09:14+00:00
 excerpt: Un carry délicieux de porc aux palmistes.
 url: /porc-palmiste/
-featured_image: /wp-content/uploads/2010/05/viande-porc-reunion.jpg
+featured_image: /img/2010/05/porc-palmiste-reunion.jpg
 categories:
   - Recette
 tags:

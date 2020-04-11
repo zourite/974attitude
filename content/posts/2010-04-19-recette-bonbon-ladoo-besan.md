@@ -5,7 +5,7 @@ type: post
 date: 2010-04-19T04:00:00+00:00
 excerpt: recette des bonbons ladoo, qui sont des mets servit dans les fêtes religieuses (tamoule et musulmane).
 url: /recette-bonbon-ladoo-besan/
-featured_image: /wp-content/uploads/2010/04/besan-bonbon-ladon.jpg
+featured_image: /img/2010/04/besan-bonbon-ladoo.jpg
 categories:
   - Recette
 tags:

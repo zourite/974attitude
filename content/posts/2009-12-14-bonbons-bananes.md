@@ -5,9 +5,9 @@ type: post
 date: 2009-12-14T20:20:03+00:00
 excerpt: Recette bonbons bananes péi
 url: /bonbons-bananes/
-featured_image: /wp-content/uploads/2009/12/bonbon-banane-reunion.jpg
+featured_image: /img/2009/12/bonbon-banane-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2009/12/IMG_2058.jpg
+  - http://www.974attitude.fr/img/2009/12/IMG_2058.jpg
 views:
   - 228
 categories:

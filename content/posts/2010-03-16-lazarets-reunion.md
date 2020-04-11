@@ -5,10 +5,10 @@ type: post
 date: 2010-03-16T04:00:43+00:00
 excerpt: "Les lazarets, la fin de l'esclavagiste et le début des engagés venus d'autres pays pour travailler dans notre île."
 url: /lazarets-reunion/
-featured_image: /wp-content/uploads/2010/03/lazarets-grande-chaloupe-reunion.jpg
+featured_image: /img/2010/03/lazarets-grande-chaloupe-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/03/lazaret_2_02-150x150.jpg
-  - http://www.974attitude.fr/wp-content/uploads/2010/03/lazaret_2_02-150x150.jpg
+  - http://www.974attitude.fr/img/2010/03/lazaret_2_02-150x150.jpg
+  - http://www.974attitude.fr/img/2010/03/lazaret_2_02-150x150.jpg
 views:
   - 113
 categories:
@@ -33,7 +33,7 @@ De 1860-1882 30 000 engagés indien sont emmenés à la Réunion. Ils travaillen
 Puis vain le tour des immigrés africains, comoriens, malgaches, somaliens, chinois, indochinois et rodriguais. 
 
 <div id="attachment_1125" style="width: 160px" class="wp-caption alignright">
-  <img aria-describedby="caption-attachment-1125" src="https://i2.wp.com/974attitude.fr/wp-content/uploads/2010/03/lazaret_engages-150x150.jpg?resize=150%2C150" alt="" title="lazaret_engages" width="150" height="150" class="size-thumbnail wp-image-1125" data-recalc-dims="1" />
+  <img aria-describedby="caption-attachment-1125" src="https://i2.wp.com/974attitude.fr/img/2010/03/lazaret_engages-150x150.jpg?resize=150%2C150" alt="" title="lazaret_engages" width="150" height="150" class="size-thumbnail wp-image-1125" data-recalc-dims="1" />
   
   <p id="caption-attachment-1125" class="wp-caption-text">
     Les engagés
@@ -51,7 +51,7 @@ Dans cette prison, un engagé a droit tous les jours à 800 grammes de riz, 125 
 ### La vente des engagés
 
 <div id="attachment_1126" style="width: 160px" class="wp-caption alignleft">
-  <img aria-describedby="caption-attachment-1126" src="https://i1.wp.com/974attitude.fr/wp-content/uploads/2010/03/lazaret_2_02-150x150.jpg?resize=150%2C150" alt="" title="lazaret" width="150" height="150" class="size-thumbnail wp-image-1126" data-recalc-dims="1" />
+  <img aria-describedby="caption-attachment-1126" src="https://i1.wp.com/974attitude.fr/img/2010/03/lazaret_2_02-150x150.jpg?resize=150%2C150" alt="" title="lazaret" width="150" height="150" class="size-thumbnail wp-image-1126" data-recalc-dims="1" />
   
   <p id="caption-attachment-1126" class="wp-caption-text">
     Lazarets en ruine

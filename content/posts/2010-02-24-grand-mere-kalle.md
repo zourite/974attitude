@@ -5,10 +5,10 @@ type: post
 date: 2010-02-24T06:42:19+00:00
 excerpt: Grand-mère Kalle légende et histoire raconté aux enfants.
 url: /grand-mere-kalle/
-featured_image: /wp-content/uploads/2010/02/grand-mere-kalle-reunion.jpg
+featured_image: /img/2010/02/grand-mere-kal-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/02/grand-mere-kal-150x150.jpg
-  - http://www.974attitude.fr/wp-content/uploads/2010/02/grand-mere-kal-150x150.jpg
+  - http://www.974attitude.fr/img/2010/02/grand-mere-kal-150x150.jpg
+  - http://www.974attitude.fr/img/2010/02/grand-mere-kal-150x150.jpg
 views:
   - 248
 categories:
@@ -21,7 +21,7 @@ tags:
 
 ---
 <div id="attachment_551" style="width: 160px" class="wp-caption alignright">
-  <a href="http://974attitude.fr/grand-mere-kalle/grand-mere-kal/" rel="attachment wp-att-551"><img aria-describedby="caption-attachment-551" src="https://i0.wp.com/974attitude.fr/wp-content/uploads/2010/02/grand-mere-kal-150x150.jpg?resize=150%2C150" alt="" title="grand-mere-kal" width="150" height="150" class="size-thumbnail wp-image-551" data-recalc-dims="1" /></a>
+  <a href="http://974attitude.fr/grand-mere-kalle/grand-mere-kal/" rel="attachment wp-att-551"><img aria-describedby="caption-attachment-551" src="/img/2010/02/grand-mere-kal-150x150.jpg?resize=150%2C150" alt="" title="grand-mere-kal" width="150" height="150" class="size-thumbnail wp-image-551" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-551" class="wp-caption-text">
     Grand-mère Kalle

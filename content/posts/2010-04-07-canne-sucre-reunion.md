@@ -5,10 +5,10 @@ type: post
 date: 2010-04-07T05:14:56+00:00
 excerpt: L’identité réunionnaise se caractérise par la canne à sucre, véritable source de richesse pour la Réunion. La canne à sucre...
 url: /canne-sucre-reunion/
-featured_image: /wp-content/uploads/2010/04/canne-sucre-reunion.jpg
+featured_image: /img/2010/04/canne-sucre-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/04/Réunion_Sucrerie_de_Bois-Rouge-150x133.jpg
-  - http://www.974attitude.fr/wp-content/uploads/2010/04/Réunion_Sucrerie_de_Bois-Rouge-150x133.jpg
+  - http://www.974attitude.fr/img/2010/04/Réunion_Sucrerie_de_Bois-Rouge-150x133.jpg
+  - http://www.974attitude.fr/img/2010/04/Réunion_Sucrerie_de_Bois-Rouge-150x133.jpg
 views:
   - 288
 categories:
@@ -26,7 +26,7 @@ L’identité réunionnaise se caractérise par la canne à sucre, véritable so
 ### Origines
 
 <div id="attachment_1509" style="width: 160px" class="wp-caption alignright">
-  <a href="https://i1.wp.com/974attitude.fr/wp-content/uploads/2010/04/canne-a-sucre.jpg"><img aria-describedby="caption-attachment-1509" src="https://i1.wp.com/974attitude.fr/wp-content/uploads/2010/04/canne-a-sucre-150x150.jpg?resize=150%2C150" alt="" title="canne a sucre" width="150" height="150" class="size-thumbnail wp-image-1509" data-recalc-dims="1" /></a>
+  <a href="https://i1.wp.com/974attitude.fr/img/2010/04/canne-a-sucre.jpg"><img aria-describedby="caption-attachment-1509" src="https://i1.wp.com/974attitude.fr/img/2010/04/canne-a-sucre-150x150.jpg?resize=150%2C150" alt="" title="canne a sucre" width="150" height="150" class="size-thumbnail wp-image-1509" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-1509" class="wp-caption-text">
     Champs de canne a sucre
@@ -40,7 +40,7 @@ Rappelons que les engagés sont d’origine Indiens (160 000), mais aussi Cafres
 ### Une période faste&#8230;.
 
 <div id="attachment_1513" style="width: 160px" class="wp-caption alignright">
-  <a href="https://i1.wp.com/974attitude.fr/wp-content/uploads/2010/04/roux-en-vrac-zDE261-150x150.jpg"><img aria-describedby="caption-attachment-1513" src="https://i1.wp.com/974attitude.fr/wp-content/uploads/2010/04/sucre-roux-en-vrac-zDE261-150x150.jpg?resize=150%2C150" alt="" title="sucre-roux" width="150" height="150" class="size-thumbnail wp-image-1513" data-recalc-dims="1" /></a>
+  <a href="https://i1.wp.com/974attitude.fr/img/2010/04/roux-en-vrac-zDE261-150x150.jpg"><img aria-describedby="caption-attachment-1513" src="https://i1.wp.com/974attitude.fr/img/2010/04/sucre-roux-en-vrac-zDE261-150x150.jpg?resize=150%2C150" alt="" title="sucre-roux" width="150" height="150" class="size-thumbnail wp-image-1513" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-1513" class="wp-caption-text">
     sucre roux
@@ -54,7 +54,7 @@ Mais cela ne va pas durée, car la production de bettrave à sucre connaît elle
 ### La canne à sucre aujourd&rsquo;hui
 
 <div id="attachment_1511" style="width: 160px" class="wp-caption alignleft">
-  <a href="https://i2.wp.com/974attitude.fr/wp-content/uploads/2010/04/Réunion_Sucrerie_de_Bois-Rouge.jpg"><img aria-describedby="caption-attachment-1511" src="https://i0.wp.com/974attitude.fr/wp-content/uploads/2010/04/Réunion_Sucrerie_de_Bois-Rouge-150x133.jpg?resize=150%2C133" alt="" title="Réunion_Sucrerie_de_Bois-Rouge" width="150" height="133" class="size-thumbnail wp-image-1511" data-recalc-dims="1" /></a>
+  <a href="https://i2.wp.com/974attitude.fr/img/2010/04/Réunion_Sucrerie_de_Bois-Rouge.jpg"><img aria-describedby="caption-attachment-1511" src="/img/2010/04/Réunion_Sucrerie_de_Bois-Rouge-150x133.jpg?resize=150%2C133" alt="" title="Réunion_Sucrerie_de_Bois-Rouge" width="150" height="133" class="size-thumbnail wp-image-1511" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-1511" class="wp-caption-text">
     Usine de Bois Rouge
@@ -64,7 +64,7 @@ Mais cela ne va pas durée, car la production de bettrave à sucre connaît elle
 ### Le devenir de la canne à sucre « ? »
 
 <div id="attachment_1516" style="width: 53px" class="wp-caption alignleft">
-  <a href="https://i0.wp.com/974attitude.fr/wp-content/uploads/2010/04/4-1a1.jpg"><img aria-describedby="caption-attachment-1516" src="https://i0.wp.com/974attitude.fr/wp-content/uploads/2010/04/4-1a1.jpg?resize=43%2C150" alt="" title="4-1a" width="43" height="150" class="size-full wp-image-1516" data-recalc-dims="1" /></a>
+  <a href="/img/2010/04/4-1a1.jpg"><img aria-describedby="caption-attachment-1516" src="/img/2010/04/4-1a1.jpg?resize=43%2C150" alt="" title="4-1a" width="43" height="150" class="size-full wp-image-1516" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-1516" class="wp-caption-text">
     Bouteille de rhum

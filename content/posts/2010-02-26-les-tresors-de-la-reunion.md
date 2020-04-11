@@ -5,7 +5,7 @@ type: post
 date: 2010-02-26T07:34:26+00:00
 excerpt: Les trésors de la Réunion sont nombreux, qui depuis sont recherchés mais en vain.
 url: /les-tresors-de-la-reunion/
-featured_image: /wp-content/uploads/2010/02/tresor-reunion.jpg
+featured_image: /img/2010/02/tresor-reunion.jpg
 categories:
   - Culture
 tags:
@@ -20,7 +20,7 @@ A l’époque de la piraterie, l’île de la Réunion, connu autrefois, sous le
 ## La Buse
 
 <div id="attachment_671" style="width: 160px" class="wp-caption alignright">
-  <img aria-describedby="caption-attachment-671" src="https://i0.wp.com/974attitude.fr/wp-content/uploads/2010/02/180px-Olivier_levasseur-150x150.jpg?resize=150%2C150" alt="" title="180px-Olivier_levasseur" width="150" height="150" class="size-thumbnail wp-image-671" data-recalc-dims="1" />
+  <img aria-describedby="caption-attachment-671" src="/img/2010/02/180px-Olivier_levasseur-150x150.jpg?resize=150%2C150" alt="" title="180px-Olivier_levasseur" width="150" height="150" class="size-thumbnail wp-image-671" data-recalc-dims="1" />
   
   <p id="caption-attachment-671" class="wp-caption-text">
     La Buse
@@ -40,7 +40,7 @@ C’est en 1730 qu’un certain capitaine Dhermitte, qui fût escale à Madagasc
 ## Légendes
 
 <div id="attachment_672" style="width: 160px" class="wp-caption alignleft">
-  <img aria-describedby="caption-attachment-672" src="https://i0.wp.com/974attitude.fr/wp-content/uploads/2010/02/images.jpg?resize=150%2C113" alt="" title="images" width="150" height="113" class="size-full wp-image-672" data-recalc-dims="1" />
+  <img aria-describedby="caption-attachment-672" src="/img/2010/02/images.jpg?resize=150%2C113" alt="" title="images" width="150" height="113" class="size-full wp-image-672" data-recalc-dims="1" />
   
   <p id="caption-attachment-672" class="wp-caption-text">
     Tombe de La Buse

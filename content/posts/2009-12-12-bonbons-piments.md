@@ -5,9 +5,9 @@ type: post
 date: 2009-12-12T05:25:40+00:00
 excerpt: "Une recette d'un petit bonbon apprécier des réunionnais."
 url: /bonbons-piments/
-featured_image: /wp-content/uploads/2016/06/bonbons-piment-reunion.jpg
+featured_image: /img/2016/06/bonbons-piment-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2009/12/bonbonpiment.jpg
+  - http://www.974attitude.fr/img/2009/12/bonbonpiment.jpg
 views:
   - 167
 categories:

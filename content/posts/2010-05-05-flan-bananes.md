@@ -5,7 +5,7 @@ type: post
 date: 2010-05-05T04:04:51+00:00
 excerpt: Un bon dessert aux saveurs de la banane.
 url: /flan-bananes/
-featured_image: /wp-content/uploads/2010/05/banane-reunion.jpg
+featured_image: /img/2010/05/flan-banane-reunion.jpg
 categories:
   - Recette
 tags:

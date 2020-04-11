@@ -5,7 +5,7 @@ type: post
 date: 2010-05-07T04:17:22+00:00
 excerpt: Un carry poulet massalé, vraiment délicieux.
 url: /poulet-massale/
-featured_image: /wp-content/uploads/2010/05/massale-poulet-reunion.jpg
+featured_image: /img/2010/05/massale-poulet-reunion.jpg
 categories:
   - Recette
 tags:

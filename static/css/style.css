@@ -1,0 +1,112 @@
+body {
+
+    font-family: 'Montserrat', sans-serif;
+    color:  #212f3d ;
+    background-color: #fff;
+    background-size: 100% 1.2em;
+    background-image: -webkit-linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), -webkit-linear-gradient(#eee .05em, transparent .05em);
+    background-image: -moz-linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), -moz-linear-gradient(#eee .05em, transparent .05em);
+    background-image: -ms-linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), -ms-linear-gradient(#eee .05em, transparent .05em);
+    background-image: -o-linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), -o-linear-gradient(#eee .05em, transparent .05em);
+    background-image: linear-gradient(0deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px), linear-gradient(#eee .05em, transparent .05em);
+    line-height: 1.6em;
+}
+
+h1,h2,h3 {
+
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+
+}
+
+h1 {
+
+    font-size : 2.5em;
+
+}
+
+h2 {
+
+    font-size: 2em;
+}
+
+.card .card-title {
+
+    font-size: initial;
+
+}
+
+h3 {
+
+    font-size: 1.5em;
+}
+
+a {
+
+    color: #000;
+    font-weight: bold;
+
+}
+
+#breadcrumbs a, .brand-logo {
+
+    color: #f8f8f8;
+
+}
+
+nav .brand-logo {
+
+    font-size: 1em;
+
+}
+
+#site-header {
+
+    background: rgb(2,0,36);
+    background: -moz-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(190,21,21,1) 100%);
+    background: -webkit-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(190,21,21,1) 100%);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(190,21,21,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#be1515",GradientType=1); 
+
+}
+
+.card > .image img {
+    width: 100%;
+}
+
+.card:hover {
+
+    box-shadow: 0px 1px 0px #ccc,0px 2px 0px #c9c9c9,0px 3px 0px #bbb,0px 4px 0px #b9b9b9,0px 6px 0px rgba(0,0,0,0.1),0px 1px 0px rgba(0,0,0,0.3),0px 3px 0px rgba(0,0,0,0.2),0px 5px 0px rgba(0,0,0,0.25),0 7px 7px rgba(0,0,0,0.1),0 8px 7px rgba(0,0,0,0.1),0 9px 9px rgba(0,0,0,0.1),0 10px 10px rgba(0,0,0,0.15),0 15px 15px rgba(0,0,0,0.16);
+}
+
+.list-inline {
+    padding-left: 0;
+    margin-left: -5px;
+    list-style: none;
+}
+
+.list-inline > li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+#breadcrumbs {
+
+    padding-top: 1em;
+    padding-bottom : 1em;
+
+}
+
+#single .card {
+
+    padding: 1em;
+
+}
+
+#single article h2 {
+
+    text-transform: none;
+    line-height: 130%;
+
+}

@@ -5,7 +5,7 @@ type: post
 date: 2010-04-20T04:00:57+00:00
 excerpt: Recette du bonbon kalou, très recherché par les réunionnais.
 url: /recette-bonbon-kalou-gulab-jamun/
-featured_image: /wp-content/uploads/2010/04/bonbon-kalou-gulab-jamun-reunion.jpg
+featured_image: /img/2010/04/bonbon-kalou-gulab-jamun-reunion.jpg
 categories:
   - Recette
 tags:

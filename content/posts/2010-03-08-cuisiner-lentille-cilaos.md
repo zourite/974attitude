@@ -5,9 +5,9 @@ type: post
 date: 2010-03-08T04:00:43+00:00
 excerpt: Une recette de lentilles de Cilaos de la Réunion cuisiné à la manière créole.
 url: /cuisiner-lentille-cilaos/
-featured_image: /wp-content/uploads/2016/06/champs-lentille-cilaos.jpg
+featured_image: /img/2010/03/champs-lentille-cilaos.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/03/430-150x150.jpg
+  - http://www.974attitude.fr/img/2010/03/430-150x150.jpg
 views:
   - 99
 categories:

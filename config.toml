@@ -1,4 +1,5 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "dream"
+languageCode = "fr-fr"
+title = "974 Attitude"
+theme = "974attitude"
+staticman_api = "https://api.staticman.net/v2/entry/zourite/staticman/master/comments"

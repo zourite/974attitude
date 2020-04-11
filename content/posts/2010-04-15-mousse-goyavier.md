@@ -5,9 +5,9 @@ type: post
 date: 2010-04-15T04:00:25+00:00
 excerpt: Mousse au goyavier un délice pour les papilles.
 url: /mousse-goyavier/
-featured_image: /wp-content/uploads/2010/04/goyavier-reunion.jpg
+featured_image: /img/2010/04/mousse-goyavier-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/04/Mousse-de-Goyavier-et-jus-de-fruit-de-la-passion-150x150.jpg
+  - http://www.974attitude.fr/img/2010/04/Mousse-de-Goyavier-et-jus-de-fruit-de-la-passion-150x150.jpg
 views:
   - 814
 categories:

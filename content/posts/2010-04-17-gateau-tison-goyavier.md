@@ -5,9 +5,9 @@ type: post
 date: 2010-04-17T04:08:55+00:00
 excerpt: Un bon gâteau mais goyavier...
 url: /gateau-tison-goyavier/
-featured_image: /wp-content/uploads/2010/04/gateau-ti-son-lam-sin.jpg
+featured_image: /img/2010/04/gateau-ti-son-lam-sin.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/04/cake_270210-150x150.jpg
+  - http://www.974attitude.fr/img/2010/04/cake_270210-150x150.jpg
 views:
   - 403
 categories:

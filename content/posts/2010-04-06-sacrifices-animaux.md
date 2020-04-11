@@ -1,11 +1,11 @@
 ---
-title: 'Les sacrifices d&rsquo;animaux'
+title: "Les sacrifices d'animaux"
 author: Eagle
 type: post
 date: 2010-04-06T03:55:58+00:00
 excerpt: Pâques est le jour de la résurrection du Christ pour les croyants catholiques, mais aussi une date pour les différentes communautés religieuses de célébrer leurs divinités....
 url: /sacrifices-animaux/
-featured_image: /wp-content/uploads/2010/04/sacrifice-animaux-reunion.jpg
+featured_image: /img/2010/04/sacrifice-animaux-reunion.jpg
 categories:
   - Culture
 tags:
@@ -17,7 +17,7 @@ tags:
 
 ---
 <div id="attachment_1498" style="width: 160px" class="wp-caption alignright">
-  <a href="https://i2.wp.com/974attitude.fr/wp-content/uploads/2010/04/sacrifice.jpg"><img aria-describedby="caption-attachment-1498" src="https://i1.wp.com/974attitude.fr/wp-content/uploads/2010/04/sacrifice-150x150.jpg?resize=150%2C150" alt="" title="sacrifice" width="150" height="150" class="size-thumbnail wp-image-1498" data-recalc-dims="1" /></a>
+  <a href="https://i2.wp.com/974attitude.fr/img/2010/04/sacrifice.jpg"><img aria-describedby="caption-attachment-1498" src="https://i1.wp.com/974attitude.fr/img/2010/04/sacrifice-150x150.jpg?resize=150%2C150" alt="" title="sacrifice" width="150" height="150" class="size-thumbnail wp-image-1498" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-1498" class="wp-caption-text">
     Sacrifice d'animaux
@@ -36,7 +36,7 @@ Cependant, prenons le cas des engagés de l’Inde, dans ce pays où la religion
 
 Dans cette île certains ont même été obligé à se convertir au christianisme.
 
-### Privé d&rsquo;éducation
+### Privé d'éducation
 
 N’ayant pas eu d’éducation sociale et religieuse, les engagés ont décidé de pratiquer leurs religions comme ils le sentaient, chacun apportant le peu de connaissances qu’ils avaient.
 

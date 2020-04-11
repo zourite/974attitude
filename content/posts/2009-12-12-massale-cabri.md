@@ -5,9 +5,9 @@ type: post
 date: 2009-12-12T04:50:45+00:00
 excerpt: Viande de cabri découpée en petits morceaux, cuisinés en massalé.
 url: /massale-cabri/
-featured_image: /wp-content/uploads/2009/12/massale-cabri-reunion.jpg
+featured_image: /img/2009/12/massale-cabri-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2009/12/massalé-cabri.jpg
+  - http://www.974attitude.fr/img/2009/12/massalé-cabri.jpg
 views:
   - 143
 categories:

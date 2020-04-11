@@ -1,0 +1,33 @@
+<head>
+
+<meta charset="utf-8">
+  
+<title>
+  {{ if .IsHome }} La culture réunionnaise  | {{ end }}
+  {{ .Title }}{{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}</title>
+
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.meta.description }}{{ . }}{{ end }}{{ end }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+
+  <meta name="apple-mobile-web-app-title" content="974 Attitude">
+  <meta name="application-name" content="974 Attitude">
+  <meta name="msapplication-TileColor" content="#b91d47">
+  <meta name="theme-color" content="#ffffff">
+    
+    <base href="{{ .Site.BaseURL }}">
+    <link type="text/css" rel="stylesheet" href="{{ "css/normalize.css" | relURL }}">
+    <link type="text/css" rel="stylesheet" href="{{ "css/materialize.min.css" | relURL }}">
+    <link type="text/css" rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+    <link rel="canonical" href="{{ .Permalink }}">
+     <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Raleway&display=swap" rel="stylesheet">
+  
+    <script src="https://kit.fontawesome.com/2283796517.js" crossorigin="anonymous"></script>
+</head>

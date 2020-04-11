@@ -5,11 +5,11 @@ type: post
 date: 2010-05-04T04:02:08+00:00
 excerpt: "Recette d'un bon petit civet de lapin au vin rouge."
 url: /civet-lapin/
-featured_image: /wp-content/uploads/2010/05/civet-lapin-reunion.jpg
+featured_image: /img/2010/05/civet-lapin-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/05/civet_lapin-150x150.jpg
-  - http://www.974attitude.fr/wp-content/uploads/2010/05/civet_lapin-150x150.jpg
-  - http://www.974attitude.fr/wp-content/uploads/2010/05/civet_lapin-150x150.jpg
+  - http://www.974attitude.fr/img/2010/05/civet_lapin-150x150.jpg
+  - http://www.974attitude.fr/img/2010/05/civet_lapin-150x150.jpg
+  - http://www.974attitude.fr/img/2010/05/civet_lapin-150x150.jpg
 views:
   - 278
 categories:

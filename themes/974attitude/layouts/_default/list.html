@@ -1,0 +1,90 @@
+{{ define "main" }}
+<main class="container">
+    {{/*  <article>
+        <header>
+            <h1>{{.Title}}</h1>
+        </header>
+        <!-- "{{.Content}}" pulls from the markdown content of the corresponding _index.md -->
+        {{.Content}}
+    </article>  */}}
+    <div id="masonry" class="row">
+    <!-- Ranges through content/posts/*.md -->
+    {{ range (.Paginator 12).Pages }}
+    <div class="col s12 m6">
+        <div class="card">
+            <div class="image">
+                {{ if isset .Params "featured_image" }}
+                  <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" />
+                {{ else }}
+                  <img src="/img/default{{ index (shuffle (seq 1 4)) 0 }}.jpg" alt="{{ .Title }}" />
+                {{ end }}
+              </div>
+            <div class="card-content">
+                <span class="card-title">
+                    <h2>
+                    <a href="{{ .RelPermalink }}">
+                        {{.Title}}
+                    </a>
+                    </h2>
+                </span>
+                 {{ .Summary }}
+            </div>
+        </div>
+    </div>
+    {{ end }}
+    </div>
+{{ $paginator := .Paginator }}
+
+<!-- If there's more than one page. -->
+{{ if gt $paginator.TotalPages 1 }}
+
+  <ul class="pagination center">
+    
+    <!-- Previous page. -->
+    {{ if $paginator.HasPrev }}
+    <li class="waves-effect text-white">
+      <a href="{{ $paginator.Prev.URL }}">
+        «
+      </a>
+    </li>
+    {{ end }}
+
+    <!-- First page. -->
+    <li class="{{ if eq $paginator.PageNumber 1 }} active {{ end }} waves-effect grey darken-4 text-white">
+      <a  href="{{ $paginator.First.URL }}">
+        1
+      </a>
+    </li>
+   
+    <!-- Page numbers. -->
+    {{ range after 1 $paginator.Pagers}}
+    <li class="{{ if eq . $paginator }} active {{ end }} waves-effect grey darken-4 text-white">
+      <a href="{{ .URL }}" class="pagination__link">
+        {{ .PageNumber }}
+      </a>
+    </li>
+    {{ end }}
+
+    <!-- Next page. -->
+    {{ if $paginator.HasNext }}
+    <li class="waves-effect text-white">
+      <a href="{{ $paginator.Next.URL }}">
+        »
+      </a>
+    </li>
+    {{ end }}
+
+    <!-- Last page. -->
+    <!-- {{ if ne $paginator.PageNumber $paginator.TotalPages }}
+    <li class="pagination__item pagination__item--last">
+      <a class="pagination__link pagination__link--last" href="{{ $paginator.Last.URL }}">
+        »»
+      </a>
+    </li>
+    {{ end }} -->
+
+  </ul><!-- .pagination -->
+{{ end }}
+
+</main>
+{{ end }}

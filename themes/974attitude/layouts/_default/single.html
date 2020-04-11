@@ -1,0 +1,49 @@
+{{ define "main" }}
+<div id="single" class="container">  
+
+      <header class="card">
+        
+        <ul id="meta" class="list-inline right-align">
+          
+          <li>
+          <i class="fas fa-calendar-alt"></i>
+          <time class="published" datetime="{{ .Date }}">
+          <!-- {{ default (i18n "date_format") | .Date.Format  }} -->
+          {{ .Date.Day }} {{ index $.Site.Data.months "fr" (printf "%d" .Date.Month) }} {{ .Date.Year }}
+          </time>
+          </li>
+
+          <li>
+          <i class="fas fa-stopwatch"></i> {{ .ReadingTime }} minutes de lecture
+          </li>
+
+        </ul>
+        
+        <h1> {{ .Title }} </h1>
+        
+        <span>
+        @{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}
+        </span>
+      
+      </header>
+
+      <article class="card grey lighten-5">
+        {{ .Content | emojify }}
+      </article>
+   
+
+    <footer class="ui attached segment dream-tags">
+      {{ if isset .Params "tags" }}
+        <ul class="center">
+        {{ range $tag := .Params.tags }}
+        <li class="chip  orange darken-1">
+          <a class="ui label" href="{{ "tags/" | relLangURL }}{{ $tag | urlize }}" title="{{ $tag }}">{{ $tag }}</a>
+          <i class="fas fa-tags fa-flip-horizontal"></i>
+        </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+    </footer>
+    {{- partial "comments.html" . -}}
+    </div>
+{{ end }}

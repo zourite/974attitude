@@ -5,8 +5,7 @@ type: post
 date: 2009-12-24T05:31:18+00:00
 excerpt: "Davy Sicard est un chanteur, Auteur, compositeur, interprète et musicien réunionnais. Il a choisi de jouer le Maloya, un style ancestral et inaccessible, dont les origines se perdent au temps de l'esclavage et de la colonisation."
 url: /davy-sicard/
-img:
-  - http://www.974attitude.fr/wp-content/uploads/2009/12/davy-sicard.jpg
+featured_image: /img/2009/12/davy-sicard-reunion.jpg
 views:
   - 143
 categories:
@@ -18,7 +17,7 @@ tags:
 
 ---
 <div id="attachment_299" style="width: 160px" class="wp-caption alignright">
-  <a href="https://i1.wp.com/974attitude.fr/wp-content/uploads/2009/12/davy-sicard.jpg"><img aria-describedby="caption-attachment-299" src="https://i1.wp.com/974attitude.fr/wp-content/uploads/2009/12/davy-sicard-150x150.jpg?resize=150%2C150" alt="" title="davy-sicard" width="150" height="150" class="size-thumbnail wp-image-299" data-recalc-dims="1" /></a>
+  <a href="https://i1.wp.com/974attitude.fr/img/2009/12/davy-sicard.jpg"><img aria-describedby="caption-attachment-299" src="https://i1.wp.com/974attitude.fr/img/2009/12/davy-sicard-150x150.jpg?resize=150%2C150" alt="" title="davy-sicard" width="150" height="150" class="size-thumbnail wp-image-299" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-299" class="wp-caption-text">
     davy-sicard

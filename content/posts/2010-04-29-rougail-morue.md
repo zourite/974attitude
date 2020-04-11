@@ -5,9 +5,9 @@ type: post
 date: 2010-04-29T04:03:11+00:00
 excerpt: "Recette d'un rougail de morue selon la tradition réunionnaise."
 url: /rougail-morue/
-featured_image: /wp-content/uploads/2010/04/rougail-morue-reunion.jpg
+featured_image: /img/2010/04/rougail-morue-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/04/morue-150x150.jpg
+  - http://www.974attitude.fr/img/2010/04/morue-150x150.jpg
 views:
   - 345
 categories:

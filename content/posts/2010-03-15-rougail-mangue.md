@@ -5,7 +5,7 @@ type: post
 date: 2010-03-15T04:00:02+00:00
 excerpt: Un rougail mangue typique de la Réunion.
 url: /rougail-mangue/
-featured_image: /wp-content/uploads/2010/03/rougail-mangue-reunion.jpg
+featured_image: /img/2010/03/rougail-mangue-reunion.jpg
 categories:
   - Recette
 tags:

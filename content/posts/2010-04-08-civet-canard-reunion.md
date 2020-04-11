@@ -5,10 +5,10 @@ type: post
 date: 2010-04-08T05:42:23+00:00
 excerpt: "Civet canard: Faites revenir dans de l'huile très chaude les morceaux de canard jusqu'à ce qu'ils soient bien dorés."
 url: /civet-canard-reunion/
-featured_image: /wp-content/uploads/2010/04/civet-canard-reunion.jpg
+featured_image: /img/2010/04/civet-canard-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/04/canard-150x150.jpg
-  - http://www.974attitude.fr/wp-content/uploads/2010/04/canard-150x150.jpg
+  - http://www.974attitude.fr/img/2010/04/canard-150x150.jpg
+  - http://www.974attitude.fr/img/2010/04/canard-150x150.jpg
 views:
   - 145
 categories:

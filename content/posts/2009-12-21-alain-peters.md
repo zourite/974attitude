@@ -5,8 +5,7 @@ type: post
 date: 2009-12-21T04:38:41+00:00
 excerpt: Personnage emblématique de La Réunion, Alain Péters est le précurseur de l’ouverture musicale réunionnaise aux influences mondiale de l’époque.
 url: /alain-peters/
-img:
-  - http://www.974attitude.fr/wp-content/uploads/2009/12/alainpeters.jpg
+featured_image : /img/2009/12/alainpeters.jpg
 views:
   - 345
 categories:
@@ -18,7 +17,7 @@ tags:
 
 ---
 <div id="attachment_266" style="width: 160px" class="wp-caption alignleft">
-  <a href="https://i0.wp.com/974attitude.fr/wp-content/uploads/2009/12/alainpeters.jpg"><img aria-describedby="caption-attachment-266" src="https://i0.wp.com/974attitude.fr/wp-content/uploads/2009/12/alainpeters-150x150.jpg?resize=150%2C150" alt="" title="alainpeters" width="150" height="150" class="size-thumbnail wp-image-266" data-recalc-dims="1" /></a>
+  <a href="/img/2009/12/alainpeters.jpg"><img aria-describedby="caption-attachment-266" src="/img/2009/12/alainpeters-150x150.jpg?resize=150%2C150" alt="" title="alainpeters" width="150" height="150" class="size-thumbnail wp-image-266" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-266" class="wp-caption-text">
     Alain peters

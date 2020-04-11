@@ -5,9 +5,9 @@ type: post
 date: 2009-12-12T05:53:52+00:00
 excerpt: "Recette typique d'un bon gâteau patate fondant de la Réunion."
 url: /gateau-patate-douce/
-featured_image: /wp-content/uploads/2009/12/gateau-patate-reunion.jpg
+featured_image: /img/2009/12/gateau-patate-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2009/12/GATEAU_PATATE_DOUCE.jpg
+  - http://www.974attitude.fr/img/2009/12/GATEAU_PATATE_DOUCE.jpg
 views:
   - 131
 categories:

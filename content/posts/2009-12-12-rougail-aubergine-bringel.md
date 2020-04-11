@@ -1,13 +1,13 @@
 ---
-title: 'Rougail d&rsquo;aubergine (Bringel)'
+title: "Rougail d'aubergine (Bringel)"
 author: Eagle
 type: post
 date: 2009-12-12T05:40:36+00:00
 excerpt: "Recette d'un bon petit rougail de bringel. Ca n'a pas l'air, mais c'est délicieux."
 url: /rougail-aubergine-bringel/
-featured_image: /wp-content/uploads/2009/12/bringel-aubergine-reunion.jpg
+featured_image: /img/2009/12/bringel-aubergine-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2009/12/Rougail_bringel.jpg
+  - http://www.974attitude.fr/img/2009/12/Rougail_bringel.jpg
 views:
   - 220
 categories:

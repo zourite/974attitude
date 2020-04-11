@@ -5,7 +5,7 @@ type: post
 date: 2010-04-30T04:09:16+00:00
 excerpt: "Recette d'un dessert apprécié des réunionnais."
 url: /bonbon-coco/
-featured_image: /wp-content/uploads/2010/04/bonbon-coco-reunion.jpg
+featured_image: /img/2010/04/bonbon-coco-reunion.jpg
 categories:
   - Recette
 tags:

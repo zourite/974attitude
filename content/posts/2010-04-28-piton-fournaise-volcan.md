@@ -5,7 +5,7 @@ type: post
 date: 2010-04-28T04:09:08+00:00
 excerpt: La Fournaise fait son spectacle, en déversant des flots de laves rougeoyantes. Ce volcan est l’un des plus actifs de notre planète. Malgré sa période d’inactivité de 5 ans entre 1992 et 1998, il reprend du poil de la bête et se la laisse coulé de temps en temps.
 url: /piton-fournaise-volcan/
-featured_image: /wp-content/uploads/2010/04/piton-fournaise-reunion.jpg
+featured_image: /img/2010/04/piton-fournaise-reunion.jpg
 categories:
   - Culture
 tags:
@@ -24,7 +24,7 @@ tags:
     
     <p>
       <div id="attachment_1756" style="width: 160px" class="wp-caption alignright">
-        <a href="https://i1.wp.com/974attitude.fr/wp-content/uploads/feudanslamer.jpg"><img aria-describedby="caption-attachment-1756" src="https://i0.wp.com/974attitude.fr/wp-content/uploads/2010/04/feudanslamer-150x150.jpg?resize=150%2C150" alt="" title="volcan" width="150" height="150" class="size-thumbnail wp-image-1756" data-recalc-dims="1" /></a>
+        <a href="https://i1.wp.com/974attitude.fr/img/feudanslamer.jpg"><img aria-describedby="caption-attachment-1756" src="/img/2010/04/feudanslamer-150x150.jpg?resize=150%2C150" alt="" title="volcan" width="150" height="150" class="size-thumbnail wp-image-1756" data-recalc-dims="1" /></a>
         
         <p id="caption-attachment-1756" class="wp-caption-text">
           Eruption de 2002
@@ -49,7 +49,7 @@ tags:
         Depuis le 17ème siècle, les éruptions se produisent soit dans les deux cratères sommitaux du cône central (le cratère Dolomieu et le cratère Bory) ou soit à l’intérieur de l’enclos Fouqué. Mais ce qui n’a pas l’empêché de transgresser son territoire en 1977, une éruption fissurale se produisit hors de l’enclos Fouqué, et un village, Piton-Saint-Rose, fut détruit, en partie, par une coulée de lave et en 1986, une nouvelle éruption fissurale a lieu hors de l’enclos Fouqué et elle détruisit quelques habitations du village de Tremblay.
         
         <div id="attachment_1760" style="width: 160px" class="wp-caption alignright">
-          <a href="https://i1.wp.com/974attitude.fr/wp-content/uploads/reunion-volcan-resize.jpg"><img aria-describedby="caption-attachment-1760" src="https://i1.wp.com/974attitude.fr/wp-content/uploads/2010/04/reunion-volcan-resize-150x150.jpg?resize=150%2C150" alt="" title="reunion_volcan" width="150" height="150" class="size-thumbnail wp-image-1760" data-recalc-dims="1" /></a>
+          <a href="https://i1.wp.com/974attitude.fr/img/reunion-volcan-resize.jpg"><img aria-describedby="caption-attachment-1760" src="https://i1.wp.com/974attitude.fr/img/2010/04/reunion-volcan-resize-150x150.jpg?resize=150%2C150" alt="" title="reunion_volcan" width="150" height="150" class="size-thumbnail wp-image-1760" data-recalc-dims="1" /></a>
           
           <p id="caption-attachment-1760" class="wp-caption-text">
             Le mariage du feu et de l'eau

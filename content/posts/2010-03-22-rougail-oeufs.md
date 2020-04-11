@@ -1,11 +1,11 @@
 ---
-title: 'Recette de rougail d&rsquo;oeufs'
+title: "Recette de rougail d'oeufs"
 author: Eagle
 type: post
 date: 2010-03-22T04:00:26+00:00
 excerpt: "Un rougail d'œuf à la créole typique de la cuisine réunionnaise."
 url: /rougail-oeufs/
-featured_image: /wp-content/uploads/2010/03/rougail-oeuf-reunion.jpg
+featured_image: /img/2010/03/rougail-oeufs-reunion.jpg
 categories:
   - Recette
 tags:

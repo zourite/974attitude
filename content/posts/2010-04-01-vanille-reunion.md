@@ -5,9 +5,9 @@ type: post
 date: 2010-04-01T04:10:59+00:00
 excerpt: Quant on parle de la vanille de la Réunion, on fait tout de suite référence à Edmond ALBUIS. Edmond ALBUIS....
 url: /vanille-reunion/
-featured_image: /wp-content/uploads/2010/04/vanille-reunion.jpg
+featured_image: /img/2010/04/vanille-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/04/fleur_de_vanille-150x150.jpg
+  - http://www.974attitude.fr/img/2010/04/fleur_de_vanille-150x150.jpg
 views:
   - 752
 categories:
@@ -21,7 +21,7 @@ tags:
 ## Petite anecdote
 
 <div id="attachment_1417" style="width: 160px" class="wp-caption alignright">
-  <a href="https://i0.wp.com/974attitude.fr/wp-content/uploads/2010/03/albius1.jpg"><img aria-describedby="caption-attachment-1417" src="https://i0.wp.com/974attitude.fr/wp-content/uploads/2010/03/albius1-150x150.jpg?resize=150%2C150" alt="" title="albius1" width="150" height="150" class="size-thumbnail wp-image-1417" data-recalc-dims="1" /></a>
+  <a href="/img/2010/03/albius1.jpg"><img aria-describedby="caption-attachment-1417" src="/img/2010/03/albius1-150x150.jpg?resize=150%2C150" alt="" title="albius1" width="150" height="150" class="size-thumbnail wp-image-1417" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-1417" class="wp-caption-text">
     Edmond ALBIUS
@@ -31,7 +31,7 @@ tags:
 ## Historique
 
 <div id="attachment_1428" style="width: 160px" class="wp-caption alignleft">
-  <a href="https://i1.wp.com/974attitude.fr/wp-content/uploads/2010/03/gousse-vanille-2.jpg"><img aria-describedby="caption-attachment-1428" src="https://i1.wp.com/974attitude.fr/wp-content/uploads/2010/03/gousse-vanille-2-150x150.jpg?resize=150%2C150" alt="" title="gousse-vanille-2" width="150" height="150" class="size-thumbnail wp-image-1428" data-recalc-dims="1" /></a>
+  <a href="https://i1.wp.com/974attitude.fr/img/2010/03/gousse-vanille-2.jpg"><img aria-describedby="caption-attachment-1428" src="https://i1.wp.com/974attitude.fr/img/2010/03/gousse-vanille-2-150x150.jpg?resize=150%2C150" alt="" title="gousse-vanille-2" width="150" height="150" class="size-thumbnail wp-image-1428" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-1428" class="wp-caption-text">
     Gousse vanille
@@ -43,7 +43,7 @@ Comme la Réunion porte bien son nom, on voit bien que tous ce qui compose notre
 ## Mais qu’est ce que sait la vanille ?
 
 <div id="attachment_1425" style="width: 160px" class="wp-caption alignright">
-  <a href="https://i0.wp.com/974attitude.fr/wp-content/uploads/2010/03/vanille.jpg"><img aria-describedby="caption-attachment-1425" src="https://i2.wp.com/974attitude.fr/wp-content/uploads/2010/03/vanille-150x150.jpg?resize=150%2C150" alt="" title="vanille" width="150" height="150" class="size-thumbnail wp-image-1425" data-recalc-dims="1" /></a>
+  <a href="/img/2010/03/vanille.jpg"><img aria-describedby="caption-attachment-1425" src="https://i2.wp.com/974attitude.fr/img/2010/03/vanille-150x150.jpg?resize=150%2C150" alt="" title="vanille" width="150" height="150" class="size-thumbnail wp-image-1425" data-recalc-dims="1" /></a>
   
   <p id="caption-attachment-1425" class="wp-caption-text">
     Vanille

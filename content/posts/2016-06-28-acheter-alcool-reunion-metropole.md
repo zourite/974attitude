@@ -1,12 +1,12 @@
 ---
-title: 'Acheter de l&rsquo;alcool de La Réunion'
+title: "Acheter de l'alcool de La Réunion"
 author: Paula
 type: post
 date: 2016-06-28T06:51:07+00:00
 url: /acheter-alcool-reunion-metropole/
-featured_image: /wp-content/uploads/2016/06/alcool-reunion.jpg
+featured_image: /img/2016/06/alcool-reunion.jpg
 categories:
-  - Actu
+  - Pratiques
 tags:
   - alcool
   - charette

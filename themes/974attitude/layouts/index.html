@@ -1,0 +1,31 @@
+{{ define "main" }}
+<div class="container">
+  
+    <div id="masonry" class="row">
+    {{ range .Site.RegularPages | first 6}}
+        <div class="col s12 m6">
+            <div class="card">
+                <div class="image">
+                    {{ if isset .Params "featured_image" }}
+                      <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" />
+                    {{ else }}
+                      <img src="/img/default{{ index (shuffle (seq 1 4)) 0 }}.jpg" alt="{{ .Title }}" />
+                    {{ end }}
+                  </div>
+                <div class="card-content">
+                    <span class="card-title">
+                        <h2>
+                        <a href="{{ .RelPermalink }}">
+                            {{.Title}}
+                        </a>
+                        </h2>
+                    </span>
+                     {{ .Summary }}
+                </div>
+            </div>
+        </div>
+    {{ end }}
+</div>
+
+</div>
+{{ end }}

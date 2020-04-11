@@ -5,9 +5,9 @@ type: post
 date: 2010-04-02T04:26:20+00:00
 excerpt: Un bon petit carry bichiques à la créole de la Réunion.
 url: /cari-bichiques/
-featured_image: /wp-content/uploads/2010/04/cari-bichique-reunion.jpg
+featured_image: /img/2010/04/cari-bichique-reunion.jpg
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2010/03/cari-bichique.jpg
+  - http://www.974attitude.fr/img/2010/03/cari-bichique-reunion.jpg
 views:
   - 223
 categories:

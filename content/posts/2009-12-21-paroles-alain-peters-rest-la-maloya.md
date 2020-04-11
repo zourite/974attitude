@@ -1,5 +1,5 @@
 ---
-title: 'Alain Peters – Rest&rsquo; la Maloya'
+title: 'Alain Peters – Rest la Maloya'
 author: Paula
 type: post
 date: 2009-12-21T16:30:45+00:00
@@ -10,7 +10,7 @@ excerpt: |
   mi préfér larg mon l'ame dan out la main.
 url: /paroles-alain-peters-rest-la-maloya/
 img:
-  - http://www.974attitude.fr/wp-content/uploads/2009/12/Alain-Peters.jpg
+  - http://www.974attitude.fr/img/2009/12/Alain-Peters.jpg
 views:
   - 238
 categories:
