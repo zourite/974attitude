@@ -1,35 +1,47 @@
-
-    <section id="comments">
-     
-        <h3 class="title"><a href="#comments">&#9997; Comments</a></h3>
-        <section class="staticman-comments post-comments">
-            
-            {{ $.Scratch.Add "hasComments" 0 }}
-            {{ $postSlug := .File.BaseFileName }}
-            {{ $comments := readDir "data/comments" }}
-            {{ range $comments }}
-            {{ if eq .Name $postSlug }}
-                {{ $.Scratch.Add "hasComments" 1 }}
-                {{ range $index, $comments := (index $.Site.Data.comments $postSlug ) }}
-                    {{ if not .reply_to }}
+<section id="comments">       
     
-                    <div id="commentid-{{ ._id }}" class="post-comment">
+    <section class="staticman-comments post-comments">
+            
+        {{ $.Scratch.Add "hasComments" 0 }}
+        
+        {{ $postSlug := .File.BaseFileName }}
+        {{ $comments := readDir "data/comments" }}
+        {{ range $comments }}
+        {{ if eq .Name $postSlug }}
+            
+            {{ $.Scratch.Add "hasComments" 1 }}
+            
+            {{ range $index, $comments := (index $.Site.Data.comments $postSlug ) }}
+                
+                {{ if not .reply_to }}
+    
+                    <div id="commentid-{{ ._id }}" class="card clearfix">
+
                         <div class="post-comment-header">
-                        <img class="post-comment-avatar" src="https://www.gravatar.com/avatar/{{     .email }}?s=70&r=pg&d=identicon">
-                            <p class="post-comment-info">
-                                <span class="post-comment-name">{{ .name }}</span>
-                                <br>
-                                <a href="#commentid-{{ ._id }}" title="Permalink to this comment">
-                                <time class="post-time">{{ dateFormat "Monday, Jan 2, 2006 at     15:04 MST" .date }}</time>
-                                </a>
-                            </p>
+
+                            <img class="post-comment-avatar left" src="https://www.gravatar.com/avatar/{{     .email }}?s=70&r=pg&d=identicon">
+                            
+                            <ul class="post-comment-info">
+                               <li> 
+                                   <span class="post-comment-name"><i class="fas fa-user"></i> {{ .name }}</span>
+                                </li>
+                                <li> 
+                                    <i class="fas fa-calendar-alt"></i>
+                                    <time class="post-time">
+                                        {{ dateFormat "02 Jan 2006 - 15:04" .date }}
+                                    </time>
+                                </li>
+                            </ul>
+                        
                         </div>
+                        
                         <div class="comment-message">
                             {{ .comment | markdownify }}
                         </div>
-                        <div class="comment__reply">
-                        <button id="{{ ._id }}" class="btn-info" href="#comment-form" onclick="changeValue('fields[reply_to]', '{{ ._id }}')">Reply to {{ .name     }}</button>
-                        </div>
+                        
+                        <button id="{{ ._id }}" class="waves-effect waves-light btn-small right grey darken-4" href="#comment-form" onclick="getReply('fields[reply_to]', '{{ ._id }}')"> Répondre à {{ .name }}
+                        </button>
+                      
                     </div>
                 {{ partial "comment-replies" (dict "entryId_parent" $postSlug "SiteDataComments_parent" $.Site.Data.comments "parentId" ._id "parentName" .name     "context" .) }}
     
@@ -38,18 +50,32 @@
         {{ end }}
     {{ end }}
 
-        <form id="comment-form" class="post-new-comment" method="post" action="{{ .Site.Params.staticman_api }}">
+        <form id="comment-form" class="post-new-comment card" method="post" action="{{ .Site.Params.staticman_api }}">
             {{ if eq ($.Scratch.Get "hasComments") 0 }}
-                <p>Be the first to leave a comment! 🎉</p>
+                <p>Soit le premier à donner ton avis 🎉</p>
             {{ end }}
-            <h3 class="prompt">Say something</h3>
+            <h3 class="prompt">Donne moi ton avis </h3>
             <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
             <input type="hidden" name="options[slug]" value="{{ .File.BaseFileName }}">
+            <div class="row">
+            <div class="input-field col s6">
             <input type="text" name="fields[name]" class="post-comment-field" placeholder="Name *" required/>
+            </div>
+            <div class="input-field col s6">
             <input type="email" name="fields[email]" class="post-comment-field" placeholder="Email address (will not be public) *" required/>
+        </div>
+            </div>
             <input type="hidden" id="comment-parent" name="fields[reply_to]" value="">
-            <textarea name="fields[comment]" class="post-comment-field" placeholder="Comment (markdown is accepted) *" required rows="10"></textarea>
-            <input type="submit" class="post-comment-field btn btn-primary comment-buttons" value="Submit">
+        <div class="row">
+            <textarea name="fields[comment]" class="post-comment-field materialize-textarea" placeholder="Comment (markdown is accepted) *" required rows="10"></textarea>
+           
+            <label>
+            <input type="checkbox" name="options[subscribe]" value="email">
+<span>Send me an email when someone comments on this post.</span>
+</label></div>
+<div class="row">
+            <input type="submit" class="post-comment-field btn btn-primary comment-buttons right" value="Submit">
+        </div>
         </form>
     </section>
 

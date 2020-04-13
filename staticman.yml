@@ -5,6 +5,9 @@ comments:
     - email
     - comment
     - reply_to
+  # When allowedOrigins is defined, only requests sent from one of the domains
+  # listed will be accepted.
+  allowedOrigins: ["974attitude.fr", "https://musing-jones-2f4c43.netlify.com", "localhost"]
   branch: master
   commitMessage: "Nouveau commentaire"
   filename: "comment-{@timestamp}"
@@ -16,6 +19,17 @@ comments:
       type: date
   moderation: true
   path: "data/comments/{options.slug}"
+  # Notification settings. When enabled, users can choose to receive notifications
+  # via email when someone adds a reply or a new comment. This requires an account
+  # with Mailgun, which you can get for free at http://mailgun.com.
+  notifications:
+    # Enable notifications
+    enabled: true	
+  akismet:
+    enabled: true
+    author : name
+    authorEmail : mail
+    content : comment
   requiredFields: 
     - name
     - email

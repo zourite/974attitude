@@ -110,3 +110,47 @@ nav .brand-logo {
     line-height: 130%;
 
 }
+
+.reply {
+
+    margin-left : 1.5em;
+
+}
+
+.post-comment-avatar {
+
+    margin-right: 1em;
+
+}
+
+.clearfix:before,
+.clearfix:after {
+        display: table;
+        content: " ";
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.comment-message {
+
+    margin-bottom: 1em;
+}
+
+.dialog {
+    display: none;
+    position: fixed;
+    background-color: rgb(247, 247, 247);
+    padding-top: 20%;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    z-index: 2;
+}
+
+.dialog:target {
+   display: block;
+}

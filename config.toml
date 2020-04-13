@@ -1,5 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://974attitude.fr/"
 languageCode = "fr-fr"
 title = "974 Attitude"
 theme = "974attitude"
-staticman_api = "https://comments-static.herokuapp.com/v2/entry/zourite/974attitude/master/comments"
+[params]
+    author = "Manzell Paula"
+    staticman_api = "https://comments-static.herokuapp.com/v2/entry/zourite/974attitude/master/comments"

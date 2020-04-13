@@ -17,3 +17,8 @@
   });
 
   })
+
+function getReply(elementName, idReply){
+  document.getElementsByName(elementName)[0].value=idReply;
+  window.location.hash = "#comment-form";
+};
