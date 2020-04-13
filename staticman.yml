@@ -29,7 +29,7 @@ comments:
     apiKey: "bz4C/shkFeaGOgxbGDjyrQBg6TWBAKgGWSGVtrX5q/KRgB7wzTufTivJahAGjl4A0FxgeIR4wgEywSm7k1T09Oc4gkR2JVRBgdcGh7FgE57A9bqIrl+jl2Hrkwr8qucF8jZDxD/b+DcfcSzGMYboijAu3O69OG+JsV56X4Desby4OYp0F4EZTwicQXCQceClNLMkm4hCiNLpAIAvfi6D0iYvLNE7Yrq6HsPXsD5DvE8/EQd9uDlYPGRv2Q9kREwo/GUBRB/zkweqjwYtfy5mZ9pkCBsHNpI1kr8f/sRHp8AvlSjVZUytqg4FqMmiRtmiLDYYJm1ITeUerxSTzljYOg=="
     domain: "YKSLhc5jK1I1K8rphJWqCByaBvFAwmoCoAlevbuq13+dlh9PPl/c8EmnqzGIXZ7LfGLxyQ49VI5WjQH58vWXt5wsk2sgWr+jzPMgtolcasWoKHkLdZGNlVwgOkGPqUOdsq6BdC+CQvpW8v42Yi6sfDb+Dv+0xWzDk9YypAIikw+aqCIFjajyi4jyX7ST3Y7/fm96oLbdB+EiaKFqPbuCZDnzqA4vKECPcnDFbL4FKKx8xYb6Knvp5umNTe3/XKYO7jsHFMJjvKfDj+w1oNb4W2GNcfTnyQmNJWxEQw/Hj39pPm+Q144SpYdAoW+pImq3HUakeXxNI71RCufux/Pzag=="
   akismet:
-    enabled: true
+    enabled: false
     author : "name"
     authorEmail : "email"
     content : "comment"
