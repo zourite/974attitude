@@ -1,9 +1,18 @@
+  
 <header id="site-header">
+
     <div class="navbar-fixed">
-    <nav class="grey darken-4" role="navigation">
-        <div class="nav-wrapper container">
-        <a id="logo-container" href="#" class="brand-logo">
-            La culture réunionnaise à porté de clic</a>
+
+      <nav class="grey darken-4" role="navigation">
+        
+        <div class="container">
+          
+          <span id="logo-container" class="brand-logo hide-on-small-only">
+            La culture réunionnaise à porté de clic</span>
+
+            <span id="logo-container" class="brand-logo hide-on-med-and-up">
+              974 attitude</span>
+
           <ul class="right hide-on-med-and-down">
             {{/*  <li><i class="fab fa-facebook-square"></i></li>
             <li><i class="fab fa-twitter"></i></li>
@@ -12,19 +21,23 @@
           <li><a href="{{.Permalink}}" class="button">{{.Title}}</a></li>
         {{end}}
           </ul>
-    
-          <ul id="nav-mobile" class="sidenav">
-            <li><a href="#">Navbar Link</a></li>
-          </ul>
-          <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+  
         </div>
-    </nav>
+
+        
+        <i href="#" data-target="nav-mobile" class="sidenav-trigger hide-on-med-and-up"><i class="material-icons">menu</i></i>
+
+      </nav>
+
+      
 
 </div>
 
-    {{/*  <section class="container">
-        <h1>La culture réunionnaise à porter de clic</h1>
-    </section>  */}}
+<ul id="nav-mobile" class="sidenav">
+  {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
+  <li><a href="{{.Permalink}}" class="button">{{.Title}}</a></li>
+{{end}}
+</ul>
 
     <div id="breadcrumbs" class="container">
         <a href="/"><i class="fas fa-home"></i></a>

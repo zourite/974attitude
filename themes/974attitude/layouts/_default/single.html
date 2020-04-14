@@ -31,10 +31,12 @@
         
         {{ .Content | emojify }}
         
+        {{ if eq .Section "posts" }}
         <div>
         <a href="{{ .Permalink }}#comment-form"><i class="fas fa-comment-dots"></i> Laisser un commentaire</a>
         </div>
-      
+        {{ end }}
+
       </article>
    
 
@@ -50,6 +52,8 @@
       {{ end }}
     </ul>
     </footer>
+    {{ if eq .Section "posts" }}
     {{- partial "comments.html" . -}}
+    {{ end }}
     </div>
 {{ end }}

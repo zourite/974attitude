@@ -22,7 +22,7 @@ h1,h2,h3 {
 h1 {
 
     font-size : 2.5em;
-
+    margin: 0.67em 0;
 }
 
 h2 {
@@ -154,3 +154,39 @@ nav .brand-logo {
 .dialog:target {
    display: block;
 }
+
+.ohnoh{
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 0;
+    width: 0;
+    z-index: -1;
+}
+
+.input-field input[type=text] + label, .materialize-textarea + label {
+    color: #000 !important;
+   }
+   
+   .input-field input[type=text], .materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #000 !important;
+    box-shadow: 0 1px 0 0 #000 !important;
+   }
+   
+   
+   .input-field input[type=text]:focus + label, .materialize-textarea:focus:not([readonly]) + label {
+    color: #000 !important;
+   }
+   
+   .input-field input[type=text]:focus, .materialize-textarea:focus:not([readonly]) {
+    border-bottom: 1px solid #000 !important;
+    box-shadow: 0 1px 0 0 #000 !important;
+   }
+
+   .input-field textarea:not([readonly]),
+   .input-field textarea:focus:not([readonly]) {
+      border-bottom: 1px solid #000;
+      box-shadow: 0 1px 0 0 #000;
+    }
+    

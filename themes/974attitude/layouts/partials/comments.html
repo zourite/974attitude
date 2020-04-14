@@ -51,36 +51,62 @@
     {{ end }}
 
         <form id="comment-form" class="post-new-comment card" method="post" action="{{ .Site.Params.staticman_api }}">
-            {{ if eq ($.Scratch.Get "hasComments") 0 }}
-                <p>Soit le premier à donner ton avis 🎉</p>
-            {{ end }}
+
             <h3 class="prompt">Donne moi ton avis </h3>
+
             <input type="hidden" name="options[redirect]" value="{{ .Permalink }}#comment-submitted">
             <input type="hidden" name="options[slug]" value="{{ .File.BaseFileName }}">
-            <div class="row">
-            <div class="input-field col s6">
-            <input type="text" name="fields[name]" class="post-comment-field" placeholder="Name *" required/>
-            </div>
-            <div class="input-field col s6">
-            <input type="email" name="fields[email]" class="post-comment-field" placeholder="Email address (will not be public) *" required/>
-        </div>
-            </div>
-            <input type="hidden" id="comment-parent" name="fields[reply_to]" value="">
-        <div class="row">
-            <textarea name="fields[comment]" class="post-comment-field materialize-textarea" placeholder="Comment (markdown is accepted) *" required rows="10"></textarea>
-          </div>
-<div class="row">
             
-  <button type="submit" class="post-comment-field comment-buttons right btn-large grey darken-4">Partager mon avis</button>
-        </div>
+            <div class="row">
+            
+                <div class="input-field col s6">
+            
+                    <input type="text" name="fields[name]" class="post-comment-field" required/>
+                    <label for="fields[name]">Ton Pseudo</label>
+
+                </div>
+            
+                <div class="input-field col s6 ohnoh">
+            
+                    <input type="email" name="fields[email]" class="post-comment-field" autocomplete="off"/>
+                    <label for="fields[email]">Ton Pseudo</label>
+
+                </div>
+            
+            </div>
+            
+            <input type="hidden" id="comment-parent" name="fields[reply_to]" value="">
+        
+            <div class="row">
+            
+                <div class="input-field col s12">
+            
+                    <textarea name="fields[comment]" class="post-comment-field materialize-textarea"></textarea>
+                    <label for="fields[comment]">Ton message</label>
+                </div>
+          
+            </div>
+
+            <div class="row">
+            
+  
+                <button type="submit" class="post-comment-field comment-buttons right btn-large grey darken-4">Partager mon avis</button>
+        
+            </div>
+        
         </form>
+    
     </section>
 
     <div id="comment-submitted" class="dialog">
-        <h3>Thank you!</h3>
-        <p>Your comment has been submitted and will be published once it has been approved. &#128522;</p>
+        
+        <h3>Merci pour ta participation &#128522; !</h3>
+        
+        <p> Ton commentaire à bien était envoyé, il est en cours de modération et sera publié prochainement.</p>
 
-        <p><a href="#" class="btn btn-primary comment-buttons ok">OK</a></p>
+        
+        <p><a href="{{ .Permalink }}" class="btn btn-primary comment-buttons ok">OK</a></p>
+    
     </div>
 
 
