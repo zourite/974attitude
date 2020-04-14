@@ -20,7 +20,7 @@ comments:
   moderation: true
   path: "data/comments/{options.slug}"
   akismet:
-    enabled: false
+    enabled: true
     author : "name"
     content : "comment"
   requiredFields: 
