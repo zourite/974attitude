@@ -3,7 +3,7 @@ title: "Les sacrifices d'animaux"
 author: Eagle
 type: post
 date: 2010-04-06T03:55:58+00:00
-excerpt: Pâques est le jour de la résurrection du Christ pour les croyants catholiques, mais aussi une date pour les différentes communautés religieuses de célébrer leurs divinités....
+description: Pâques est le jour de la résurrection du Christ pour les croyants catholiques, mais aussi une date pour les différentes communautés religieuses de célébrer leurs divinités....
 url: /sacrifices-animaux/
 featured_image: /img/2010/04/sacrifice-animaux-reunion.jpg
 categories:

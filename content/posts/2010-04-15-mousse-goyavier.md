@@ -3,7 +3,7 @@ title: Mousse au goyavier
 author: Eagle
 type: post
 date: 2010-04-15T04:00:25+00:00
-excerpt: Mousse au goyavier un délice pour les papilles.
+description: Mousse au goyavier un délice pour les papilles.
 url: /mousse-goyavier/
 featured_image: /img/2010/04/mousse-goyavier-reunion.jpg
 img:

@@ -3,7 +3,7 @@ title: Le piton de La Fournaise
 author: Eagle
 type: post
 date: 2010-04-28T04:09:08+00:00
-excerpt: La Fournaise fait son spectacle, en déversant des flots de laves rougeoyantes. Ce volcan est l’un des plus actifs de notre planète. Malgré sa période d’inactivité de 5 ans entre 1992 et 1998, il reprend du poil de la bête et se la laisse coulé de temps en temps.
+description: La Fournaise fait son spectacle, en déversant des flots de laves rougeoyantes. Ce volcan est l’un des plus actifs de notre planète. Malgré sa période d’inactivité de 5 ans entre 1992 et 1998, il reprend du poil de la bête et se la laisse coulé de temps en temps.
 url: /piton-fournaise-volcan/
 featured_image: /img/2010/04/piton-fournaise-reunion.jpg
 categories:

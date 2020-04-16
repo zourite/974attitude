@@ -3,7 +3,7 @@ title: Rougail la morue
 author: Eagle
 type: post
 date: 2010-04-29T04:03:11+00:00
-excerpt: "Recette d'un rougail de morue selon la tradition réunionnaise."
+description: "Recette d'un rougail de morue selon la tradition réunionnaise."
 url: /rougail-morue/
 featured_image: /img/2010/04/rougail-morue-reunion.jpg
 img:

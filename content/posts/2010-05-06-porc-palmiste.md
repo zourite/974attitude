@@ -3,7 +3,7 @@ title: Recette de porc au palmiste
 author: Eagle
 type: post
 date: 2010-05-06T04:09:14+00:00
-excerpt: Un carry délicieux de porc aux palmistes.
+description: Un carry délicieux de porc aux palmistes.
 url: /porc-palmiste/
 featured_image: /img/2010/05/porc-palmiste-reunion.jpg
 categories:

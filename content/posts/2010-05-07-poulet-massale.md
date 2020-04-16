@@ -3,7 +3,7 @@ title: Recette cari poulet massalé
 author: Eagle
 type: post
 date: 2010-05-07T04:17:22+00:00
-excerpt: Un carry poulet massalé, vraiment délicieux.
+description: Un carry poulet massalé, vraiment délicieux.
 url: /poulet-massale/
 featured_image: /img/2010/05/massale-poulet-reunion.jpg
 categories:

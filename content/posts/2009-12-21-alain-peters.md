@@ -3,7 +3,7 @@ title: Alain Péters
 author: Eagle
 type: post
 date: 2009-12-21T04:38:41+00:00
-excerpt: Personnage emblématique de La Réunion, Alain Péters est le précurseur de l’ouverture musicale réunionnaise aux influences mondiale de l’époque.
+description: Personnage emblématique de La Réunion, Alain Péters est le précurseur de l’ouverture musicale réunionnaise aux influences mondiale de l’époque.
 url: /alain-peters/
 featured_image : /img/2009/12/alainpeters.jpg
 views:

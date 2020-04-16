@@ -3,7 +3,7 @@ title: Recette de civet canard
 author: Eagle
 type: post
 date: 2010-04-08T05:42:23+00:00
-excerpt: "Civet canard: Faites revenir dans de l'huile très chaude les morceaux de canard jusqu'à ce qu'ils soient bien dorés."
+description: "Civet canard: Faites revenir dans de l'huile très chaude les morceaux de canard jusqu'à ce qu'ils soient bien dorés."
 url: /civet-canard-reunion/
 featured_image: /img/2010/04/civet-canard-reunion.jpg
 img:

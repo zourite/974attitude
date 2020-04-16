@@ -4,4 +4,6 @@ title = "974 Attitude"
 theme = "974attitude"
 [params]
     author = "Manzell Paula"
+    description = "L'intégralité de L'ile de La Réunion à porté de clic"
+    images = ["img/dodo-bleu.png"]
     staticman_api = "https://comments-static.herokuapp.com/v2/entry/zourite/974attitude/master/comments"

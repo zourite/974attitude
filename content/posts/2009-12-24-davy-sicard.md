@@ -3,7 +3,7 @@ title: Davy Sicard
 author: Eagle
 type: post
 date: 2009-12-24T05:31:18+00:00
-excerpt: "Davy Sicard est un chanteur, Auteur, compositeur, interprète et musicien réunionnais. Il a choisi de jouer le Maloya, un style ancestral et inaccessible, dont les origines se perdent au temps de l'esclavage et de la colonisation."
+description: "Davy Sicard est un chanteur, Auteur, compositeur, interprète et musicien réunionnais. Il a choisi de jouer le Maloya, un style ancestral et inaccessible, dont les origines se perdent au temps de l'esclavage et de la colonisation."
 url: /davy-sicard/
 featured_image: /img/2009/12/davy-sicard-reunion.jpg
 views:

@@ -3,7 +3,7 @@ title: "Recette de cari ti' jacques boucané"
 author: Eagle
 type: post
 date: 2010-03-25T04:08:14+00:00
-excerpt: "Carry ti' jacques boucané, une recette très prisée et ancestrale."
+description: "Carry ti' jacques boucané, une recette très prisée et ancestrale."
 url: /cari-ti-jacques-boucane/
 featured_image: /img/2010/03/boucane-reunion.jpg
 categories:

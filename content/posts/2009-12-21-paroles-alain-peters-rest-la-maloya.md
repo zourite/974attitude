@@ -3,7 +3,7 @@ title: 'Alain Peters – Rest la Maloya'
 author: Paula
 type: post
 date: 2009-12-21T16:30:45+00:00
-excerpt: |
+description: |
   Chanson extraite de l'album Paraboler:
   Bon Dyé aster na ryin ke ou
   pou tire a mwin dan ce mové trin

@@ -3,7 +3,7 @@ title: Recette de massalé cabri
 author: Eagle
 type: post
 date: 2009-12-12T04:50:45+00:00
-excerpt: Viande de cabri découpée en petits morceaux, cuisinés en massalé.
+description: Viande de cabri découpée en petits morceaux, cuisinés en massalé.
 url: /massale-cabri/
 featured_image: /img/2009/12/massale-cabri-reunion.jpg
 img:

@@ -3,7 +3,7 @@ title: M Frame – Bas Satelitte
 author: Paula
 type: post
 date: 2012-08-09T07:15:00+00:00
-excerpt: Le site y appelle 974 attitude et pourtant faut pas dit y parle un tas band l’hatitude du 974. Alors sur notre jolie petite île de la réunion néna un mode que mi pense y démodera jamais. C’est le fameux M Frame complet lacoste, ou sinon M Frame bas satellite. Franchement mi lé pas du tout fan band bas satelite alors la pas du tout mi aime pas sa té. Un gars en complet Lacoste ou en Sergio, y passe mieux.
+description: Le site y appelle 974 attitude et pourtant faut pas dit y parle un tas band l’hatitude du 974. Alors sur notre jolie petite île de la réunion néna un mode que mi pense y démodera jamais. C’est le fameux M Frame complet lacoste, ou sinon M Frame bas satellite. Franchement mi lé pas du tout fan band bas satelite alors la pas du tout mi aime pas sa té. Un gars en complet Lacoste ou en Sergio, y passe mieux.
 url: /m-frame-bas-satelitte/
 featured_image: /img/2012/08/optique-de-bourbon-oakley.jpg
 categories:

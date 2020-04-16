@@ -3,7 +3,7 @@ title: Les trésors de la Réunion
 author: Eagle
 type: post
 date: 2010-02-26T07:34:26+00:00
-excerpt: Les trésors de la Réunion sont nombreux, qui depuis sont recherchés mais en vain.
+description: Les trésors de la Réunion sont nombreux, qui depuis sont recherchés mais en vain.
 url: /les-tresors-de-la-reunion/
 featured_image: /img/2010/02/tresor-reunion.jpg
 categories:
@@ -40,7 +40,7 @@ C’est en 1730 qu’un certain capitaine Dhermitte, qui fût escale à Madagasc
 ## Légendes
 
 <div id="attachment_672" style="width: 160px" class="wp-caption alignleft">
-  <img aria-describedby="caption-attachment-672" src="/img/2010/02/images.jpg?resize=150%2C113" alt="" title="images" width="150" height="113" class="size-full wp-image-672" data-recalc-dims="1" />
+  <img aria-describedby="caption-attachment-672" src="/img/2010/02/featured_image.jpg?resize=150%2C113" alt="" title="featured_image" width="150" height="113" class="size-full wp-image-672" data-recalc-dims="1" />
   
   <p id="caption-attachment-672" class="wp-caption-text">
     Tombe de La Buse

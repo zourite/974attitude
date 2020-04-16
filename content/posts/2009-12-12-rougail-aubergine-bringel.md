@@ -3,7 +3,7 @@ title: "Rougail d'aubergine (Bringel)"
 author: Eagle
 type: post
 date: 2009-12-12T05:40:36+00:00
-excerpt: "Recette d'un bon petit rougail de bringel. Ca n'a pas l'air, mais c'est délicieux."
+description: "Recette d'un bon petit rougail de bringel. Ca n'a pas l'air, mais c'est délicieux."
 url: /rougail-aubergine-bringel/
 featured_image: /img/2009/12/bringel-aubergine-reunion.jpg
 img:

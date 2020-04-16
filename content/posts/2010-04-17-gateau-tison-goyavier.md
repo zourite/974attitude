@@ -3,7 +3,7 @@ title: Recette de gâteau Tison à la pâte de goyavier (Lam sim)
 author: Eagle
 type: post
 date: 2010-04-17T04:08:55+00:00
-excerpt: Un bon gâteau mais goyavier...
+description: Un bon gâteau mais goyavier...
 url: /gateau-tison-goyavier/
 featured_image: /img/2010/04/gateau-ti-son-lam-sin.jpg
 img:

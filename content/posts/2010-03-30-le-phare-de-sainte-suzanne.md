@@ -3,7 +3,7 @@ title: Le phare de Sainte-Suzanne
 author: Eagle
 type: post
 date: 2010-03-30T04:39:06+00:00
-excerpt: Le phare de Sainte-Suzanne, monument historique de la Réunion.
+description: Le phare de Sainte-Suzanne, monument historique de la Réunion.
 url: /le-phare-de-sainte-suzanne/
 featured_image: /img/2010/03/phare-saint-suzanne-reunion.jpg
 img:

@@ -3,7 +3,7 @@ title: Grand-mère kalle
 author: Eagle
 type: post
 date: 2010-02-24T06:42:19+00:00
-excerpt: Grand-mère Kalle légende et histoire raconté aux enfants.
+description: Grand-mère Kalle légende et histoire raconté aux enfants.
 url: /grand-mere-kalle/
 featured_image: /img/2010/02/grand-mere-kal-reunion.jpg
 img:

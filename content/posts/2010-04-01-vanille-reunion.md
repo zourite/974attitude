@@ -3,7 +3,7 @@ title: La vanille de la Réunion
 author: Eagle
 type: post
 date: 2010-04-01T04:10:59+00:00
-excerpt: Quant on parle de la vanille de la Réunion, on fait tout de suite référence à Edmond ALBUIS. Edmond ALBUIS....
+description: Quant on parle de la vanille de la Réunion, on fait tout de suite référence à Edmond ALBUIS. Edmond ALBUIS....
 url: /vanille-reunion/
 featured_image: /img/2010/04/vanille-reunion.jpg
 img:

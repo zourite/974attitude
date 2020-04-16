@@ -3,7 +3,7 @@ title: Les lazarets à la Réunion
 author: Eagle
 type: post
 date: 2010-03-16T04:00:43+00:00
-excerpt: "Les lazarets, la fin de l'esclavagiste et le début des engagés venus d'autres pays pour travailler dans notre île."
+description: "Les lazarets, la fin de l'esclavagiste et le début des engagés venus d'autres pays pour travailler dans notre île."
 url: /lazarets-reunion/
 featured_image: /img/2010/03/lazarets-grande-chaloupe-reunion.jpg
 img:

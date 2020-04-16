@@ -3,7 +3,7 @@ title: Recette de cari bichiques
 author: Eagle
 type: post
 date: 2010-04-02T04:26:20+00:00
-excerpt: Un bon petit carry bichiques à la créole de la Réunion.
+description: Un bon petit carry bichiques à la créole de la Réunion.
 url: /cari-bichiques/
 featured_image: /img/2010/04/cari-bichique-reunion.jpg
 img:

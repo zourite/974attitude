@@ -3,7 +3,7 @@ title: Recette de bonbons Bananes
 author: Chinois
 type: post
 date: 2009-12-14T20:20:03+00:00
-excerpt: Recette bonbons bananes péi
+description: Recette bonbons bananes péi
 url: /bonbons-bananes/
 featured_image: /img/2009/12/bonbon-banane-reunion.jpg
 img:

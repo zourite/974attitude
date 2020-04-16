@@ -3,7 +3,7 @@ title: Recette de gâteau patate douce
 author: Eagle
 type: post
 date: 2009-12-12T05:53:52+00:00
-excerpt: "Recette typique d'un bon gâteau patate fondant de la Réunion."
+description: "Recette typique d'un bon gâteau patate fondant de la Réunion."
 url: /gateau-patate-douce/
 featured_image: /img/2009/12/gateau-patate-reunion.jpg
 img:

@@ -3,7 +3,7 @@ title: Mon coeur épris – Dominique Barret
 author: Paula
 type: post
 date: 2010-03-19T03:52:17+00:00
-excerpt: Les paroles de la chanson de Dominique Barret et Meera Mohun. "Divine beauté, bien aimée qui passée..."
+description: Les paroles de la chanson de Dominique Barret et Meera Mohun. "Divine beauté, bien aimée qui passée..."
 url: /mon-coeur-epris-dominique-barret-2/
 views:
   - 193

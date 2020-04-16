@@ -6,7 +6,7 @@
   {{ if .IsHome }} La culture réunionnaise  | {{ end }}
   {{ .Title }}{{ if ne .Title .Site.Title }} | {{ .Site.Title }}{{ end }}</title>
 
-  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.meta.description }}{{ . }}{{ end }}{{ end }}">
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
     
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -30,4 +30,9 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat|Raleway&display=swap" rel="stylesheet">
   
     <script src="https://kit.fontawesome.com/2283796517.js" crossorigin="anonymous"></script>
-</head>
+    
+    {{ template "_internal/opengraph.html" . }}
+    {{ template "_internal/twitter_cards.html" . }}
+    {{ template "_internal/schema.html" . }}
+
+  </head>

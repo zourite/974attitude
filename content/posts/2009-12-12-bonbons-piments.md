@@ -3,7 +3,7 @@ title: Recette de bonbons piments
 author: Eagle
 type: post
 date: 2009-12-12T05:25:40+00:00
-excerpt: "Une recette d'un petit bonbon apprécier des réunionnais."
+description: "Une recette d'un petit bonbon apprécier des réunionnais."
 url: /bonbons-piments/
 featured_image: /img/2016/06/bonbons-piment-reunion.jpg
 img:

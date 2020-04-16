@@ -3,7 +3,7 @@ title: Cuisiner la lentille de cilaos
 author: Eagle
 type: post
 date: 2010-03-08T04:00:43+00:00
-excerpt: Une recette de lentilles de Cilaos de la Réunion cuisiné à la manière créole.
+description: Une recette de lentilles de Cilaos de la Réunion cuisiné à la manière créole.
 url: /cuisiner-lentille-cilaos/
 featured_image: /img/2010/03/champs-lentille-cilaos.jpg
 img:

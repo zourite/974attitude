@@ -3,7 +3,7 @@ title: Les lentilles de Cilaos
 author: Eagle
 type: post
 date: 2010-03-08T04:00:41+00:00
-excerpt: Les lentilles de Cilaos, réel produit endémique de la Réunion, font parties de nos traditions et de notre culture.
+description: Les lentilles de Cilaos, réel produit endémique de la Réunion, font parties de nos traditions et de notre culture.
 url: /les-lentilles-de-cilaos/
 featured_image: /img/2010/03/champs-lentille-cilaos.jpg
 img:

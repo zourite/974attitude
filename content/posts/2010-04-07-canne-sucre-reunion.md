@@ -3,7 +3,7 @@ title: La canne à sucre à la Réunion
 author: Eagle
 type: post
 date: 2010-04-07T05:14:56+00:00
-excerpt: L’identité réunionnaise se caractérise par la canne à sucre, véritable source de richesse pour la Réunion. La canne à sucre...
+description: L’identité réunionnaise se caractérise par la canne à sucre, véritable source de richesse pour la Réunion. La canne à sucre...
 url: /canne-sucre-reunion/
 featured_image: /img/2010/04/canne-sucre-reunion.jpg
 img:

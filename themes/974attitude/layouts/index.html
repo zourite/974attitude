@@ -2,7 +2,7 @@
 <div class="container">
   
     <div id="masonry" class="row">
-    {{ range .Site.RegularPages | first 6}}
+    {{ range where .Site.RegularPages "Section" "posts" | first 6}}
         <div class="col s12 m6">
             <div class="card">
                 <div class="image">

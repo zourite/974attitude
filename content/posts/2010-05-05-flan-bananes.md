@@ -3,7 +3,7 @@ title: Recette de flan aux bananes
 author: Eagle
 type: post
 date: 2010-05-05T04:04:51+00:00
-excerpt: Un bon dessert aux saveurs de la banane.
+description: Un bon dessert aux saveurs de la banane.
 url: /flan-bananes/
 featured_image: /img/2010/05/flan-banane-reunion.jpg
 categories:
