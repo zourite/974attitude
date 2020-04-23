@@ -199,6 +199,16 @@ nav .brand-logo {
     .input-field label{
         pointer-events: all !important;
     }
+    
+    #search .input-field input[type=text] + label,  #search .input-field input[type=text]:focus {
+        color: #fff !important;
+       }
+
+     #search  .input-field input[type=text] {
+        border-bottom: 1px solid #fff !important;
+        box-shadow: 0 1px 0 0 #000 !important;
+       }
+    
     .search-results {
         display: none;
         background-color: #fff;
