@@ -196,10 +196,9 @@ nav .brand-logo {
       box-shadow: 0 1px 0 0 #000;
     }
 
-    .search {
-        position: relative;
-        display: inline-block;
-        }
+    .input-field label{
+        pointer-events: all !important;
+    }
     .search-results {
         display: none;
         background-color: #fff;

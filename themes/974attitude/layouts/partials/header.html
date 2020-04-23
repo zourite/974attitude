@@ -55,8 +55,8 @@
         <div class="search right" id="search">
 
           <div class="input-field">
-            <input name="search" type="text" v-model="txt" @keyup="search()" @blur="close()" autocomplete="off">
-            <label for="search">Rechercher...</label>
+            <input id="toto" type="text" v-model="txt" @keyup="search()" @blur="close()" autocomplete="off">
+            <label for="toto">Rechercher</label>
           </div>
           <div class="search-results" :style="{'display': showresult?'block':'none'}">
               <a v-for="item in result" :href="item.url">{{ printf "{{ item.title }}" }}</a>
