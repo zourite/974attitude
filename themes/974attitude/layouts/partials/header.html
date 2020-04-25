@@ -1,16 +1,17 @@
   
 <header id="site-header">
 
-    <div class="navbar-fixed">
+    <div class="navbar-fixed row no-mrg-bt">
 
       <nav class="grey darken-4" role="navigation">
         
-        <div class="container">
+        <div class="nav-wrapper">
+          <div class="col s12">
           
-          <span id="logo-container" class="brand-logo hide-on-small-only">
+          <span id="logo-container" class="brand-logo left hide-on-small-only">
             La culture réunionnaise à porté de clic</span>
 
-            <span id="logo-container" class="brand-logo hide-on-med-and-up">
+            <span  class="brand-logo hide-on-med-and-up">
               974 attitude</span>
 
           <ul class="right hide-on-med-and-down">
@@ -20,10 +21,10 @@
           </ul>
   
         </div>
-
-        
         <i href="#" data-target="nav-mobile" class="sidenav-trigger hide-on-med-and-up"><i class="material-icons">menu</i></i>
 
+      </div>
+       
       </nav>
 
       
@@ -45,9 +46,9 @@
   <li><a href="{{.Permalink}}" class="button">{{.Title}}</a></li>
 {{end}}
 </ul>
-  <div class="container">
-    <div class="row valign-wrapper">
-      <div class="col s12 m8">  
+  <div class="row">
+    <div class="valign-wrapper">
+      <div class="col s12 m9">  
         <div id="breadcrumbs">
         <a href="/"><i class="fas fa-home"></i></a>
         {{ range (split .RelPermalink "/") }}
@@ -57,7 +58,7 @@
         {{ end }}
           </div>
         </div>
-      <div class="col m4 white-text">
+      <div class="col m3 white-text">
         <div id="search-desktop">
         <div class="search" id="search">
 
