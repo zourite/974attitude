@@ -1,0 +1,21 @@
+{{ define "main"}}
+    <main id="p404">
+      <div class="container">
+        <header class="card"> <p class="center">Le contenu qui est censé être là n'existe plus, je te propose de visiter un des liens ci dessous, ils sont tout aussi intéréssant.</p> </header>  
+        <article class="card row valign-wrapper">
+         <div class="col m7 s12">
+        <ul id="categorie-side">
+        {{ range first (.Site.Params.sidebar.postAmount | default 10) (where .Site.Pages  "Type" "post") }}
+            <li>
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            </li>
+        {{ end }}
+        </ul>
+    </div>  
+    <div class="col m5 center-align hide-on-small-only">
+        <img src="/img/logo.png" alt="Logo 974 Attitude">
+    </div> 
+        </article>
+      </div>
+    </main>
+{{ end }}

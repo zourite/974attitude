@@ -374,3 +374,9 @@ nav .brand-logo {
         font-size: 80%;
 
       }
+
+      #p404 article, #p404 header {
+
+        padding: 1em;
+
+      }

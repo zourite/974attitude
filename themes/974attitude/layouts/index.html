@@ -3,7 +3,7 @@
   
     <div id="masonry" class="row">
     {{ range where .Site.RegularPages "Section" "posts" | first 6}}
-        <div class="col s12 m4">
+        <div class="col s12 m6 l4">
             <div class="card">
                 <div class="image">
                     {{ if isset .Params "featured_image" }}
