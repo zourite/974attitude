@@ -1,9 +1,9 @@
 {{ define "main" }}
-<div class="container">
+<main>
   
     <div id="masonry" class="row">
     {{ range where .Site.RegularPages "Section" "posts" | first 6}}
-        <div class="col s12 m6">
+        <div class="col s12 m4">
             <div class="card">
                 <div class="image">
                     {{ if isset .Params "featured_image" }}
@@ -27,5 +27,5 @@
     {{ end }}
 </div>
 
-</div>
+</main>
 {{ end }}
