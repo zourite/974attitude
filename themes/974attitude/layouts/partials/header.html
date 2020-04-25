@@ -14,9 +14,6 @@
               974 attitude</span>
 
           <ul class="right hide-on-med-and-down">
-            {{/*  <li><i class="fab fa-facebook-square"></i></li>
-            <li><i class="fab fa-twitter"></i></li>
-            <li><i class="far fa-envelope"></i></li>  */}}
             {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
           <li><a href="{{.Permalink}}" class="button">{{.Title}}</a></li>
         {{end}}
@@ -34,13 +31,23 @@
 </div>
 
 <ul id="nav-mobile" class="sidenav">
+  <li class="rs center">
+    <a href="https://www.facebook.com/groups/1939256899645175/"><i class="fab fa-facebook-square"></i></a>
+    <a href="https://twitter.com/974attitude"><i class="fab fa-twitter"></i></a>
+           
+  </li>
+  <li>
+    <div id="search-mobile">
+
+    </div>
+  </li>
   {{range ($.Site.GetPage "taxonomyTerm" "categories").Pages }}
   <li><a href="{{.Permalink}}" class="button">{{.Title}}</a></li>
 {{end}}
 </ul>
   <div class="container">
     <div class="row valign-wrapper">
-      <div class="col s6">  
+      <div class="col s12 m8">  
         <div id="breadcrumbs">
         <a href="/"><i class="fas fa-home"></i></a>
         {{ range (split .RelPermalink "/") }}
@@ -50,24 +57,26 @@
         {{ end }}
           </div>
         </div>
-      <div class="col s6 white-text">
-
-        <div class="search right" id="search">
+      <div class="col m4 white-text">
+        <div id="search-desktop">
+        <div class="search" id="search">
 
           <div class="input-field">
-            <input id="searchbox" type="text" v-model="txt" @keyup="search()" @blur="close()" autocomplete="off">
-            <label for="searchbox"><i class="material-icons">search</i></label>
+            <input id="search-box" type="text" v-model="txt" @keyup="search()" @blur="close()" autocomplete="off">
+            <i class="material-icons">search</i>
           </div>
 
-          <div class="search-results" :style="{'display': showresult?'block':'none'}">
+          <div class="search-results" :style="{'visibility': showresult?'visible':'hidden', 'opacity': showresult?'1':'0'}">
             <a v-for="item in result" :href="item.url">{{ printf "{{ item.title }}" }}</a>
         </div>
 
         </div>
-        
+      </div>
       </div>
       
     </div>
   </div>
 </header>
+<div id="overlay">
+</div>
 

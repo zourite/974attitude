@@ -1,7 +1,8 @@
 $(document).ready(function(){
   $('.sidenav').sidenav();
 });
-  $(window).on( 'load', function(){
+
+$(window).on( 'load', function(){
 
     $('#masonry').masonry({
       itemSelector: '.col',
@@ -14,12 +15,43 @@ $(document).ready(function(){
       }
   });
 
-  })
+})
 
 function getReply(elementName, idReply){
   document.getElementsByName(elementName)[0].value=idReply;
   window.location.hash = "#comment-form";
 };
+
+function disable(){
+    document.getElementById('submit-form').setAttribute("disabled", "disabled"); 
+}
+
+moveSearchForm();
+window.addEventListener("resize", moveSearchForm);
+
+function moveElement(newLocation, oldLocation) {
+
+    var newParent = document.getElementById(newLocation);
+    var oldParent = document.getElementById(oldLocation);
+
+    while (oldParent.hasChildNodes()) newParent.appendChild(oldParent.firstChild);
+
+}
+
+function moveSearchForm(){
+
+    const mq = window.matchMedia( "(min-width: 600px)" );
+
+    if (mq.matches) {
+       
+        moveElement('search-desktop', 'search-mobile');
+      
+    } else {
+
+        moveElement('search-mobile', 'search-desktop');
+    }
+
+}
 
 let vuesearch = new Vue({
   el: '#search', // div ID
@@ -47,6 +79,8 @@ let vuesearch = new Vue({
           setTimeout(function() {
               vuesearch.showresult = false;
               vuesearch.txt = '';
+              document.getElementById("overlay").style.visibility = "hidden";
+              document.getElementById("overlay").style.opacity = 0;
               }, 300);
           },
       search: function() {
@@ -55,6 +89,14 @@ let vuesearch = new Vue({
           this.timeoutID = setTimeout(this.dosearch, 500);
           },
       dosearch: function() {
+            
+            if (!this.txt) { 
+                document.getElementById("overlay").style.visibility = "hidden";
+              document.getElementById("overlay").style.opacity = 0;
+            } else {
+                document.getElementById("overlay").style.visibility = "visible";
+              document.getElementById("overlay").style.opacity = 1;
+            }
           // do the search in the 'bdd'
           this.result = []; // clear previous result
           let words = this.txt.split(' '); // split typed text with spaces
