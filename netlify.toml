@@ -8,6 +8,6 @@
 
   [[redirects]]
     from = "/974/culture/"
-    to = "/culture/"
+    to = "/categories/culture/"
     status = 301
     force = true
