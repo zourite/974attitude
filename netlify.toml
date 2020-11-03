@@ -1,13 +1,15 @@
-[[redirects]]
-  from = "/2009/12/alain-peters/"
-  to = "/alain-peters/"
-  status = 301
-  force = false
-  query = {path = ":path"}
+[build]
   
-[[redirects]]
-  from = "/974/culture/"
-  to = "/culture/"
-  status = 301
-  force = false
-  query = {path = ":path"}
+  [[redirects]]
+    from = "/2009/12/alain-peters/"
+    to = "/alain-peters/"
+    status = 301
+    force = false
+    query = {path = ":path"}
+
+  [[redirects]]
+    from = "/974/culture/"
+    to = "/culture/"
+    status = 301
+    force = false
+    query = {path = ":path"}
